@@ -6,7 +6,7 @@ There are three key problems, which need to be solved to reach the final goal.
   - Tracking car and violation detection.
 
 1 Detecting traffic light
-- In order to dectect traffic light, I used S2TLD dataset (https://github.com/Thinklab-SJTU/S2TLD) containing 1022 images and annotation .xml files to train yolov3 model.
+- In order to dectect traffic light, I used S2TLD dataset (https://github.com/Thinklab-SJTU/S2TLD) containing 1022 images and annotation .xml files to train yolov3 model. I created a voc pascal to yolo format based on the version of Joseph Redmon's voc_label.py
 - In this custom object detection, there are 5 classes ['red', 'green', 'yellow', 'off', 'wait_on']. The detection will give out 3 results: 'red', 'green' or 'none' to use in the next step.
 
 
