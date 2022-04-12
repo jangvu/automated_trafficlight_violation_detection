@@ -27,6 +27,8 @@ In test video:
 - After detecting cars inside the frame, a IOU function is used to calculate in order to choose which cars are in the ROI, and the system will color them in green.
  
 In test video:
+
+
 <img width="830" alt="Screen Shot 2022-04-12 at 11 56 16" src="https://user-images.githubusercontent.com/50269219/162934097-295bc284-48aa-4f13-8063-7fdef5d3f485.png">
 
 
@@ -42,7 +44,6 @@ In test video:
     * If the traffic light is green and car's bounding boxes is outside the ROI, the system will run normally, and the car's bounding boxes are also removed from tracking list.
 
 Violation detection frame:
-
 <img width="830" alt="Screen Shot 2022-04-12 at 11 56 16" src="https://user-images.githubusercontent.com/50269219/162934097-295bc284-48aa-4f13-8063-7fdef5d3f485.png">
 
 
