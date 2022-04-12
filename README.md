@@ -42,5 +42,9 @@ In test video:
     * If the traffic light is green and car's bounding boxes is outside the ROI, the system will run normally, and the car's bounding boxes are also removed from tracking list.
 
 Violation detection frame:
-![detected_trafficlight_violation](https://user-images.githubusercontent.com/50269219/162932853-09ebe88d-112c-4070-b303-e0f5adaf87b0.jpg)
+
+<img width="830" alt="Screen Shot 2022-04-12 at 11 56 16" src="https://user-images.githubusercontent.com/50269219/162934097-295bc284-48aa-4f13-8063-7fdef5d3f485.png">
+
+
+
   
