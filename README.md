@@ -27,9 +27,8 @@ In test video:
 - After detecting cars inside the frame, a IOU function is used to calculate in order to choose which cars are in the ROI, and the system will color them in green.
  
 In test video:
+![demo_car_detector](https://user-images.githubusercontent.com/50269219/163115008-8a488326-551d-4894-b83f-35f9d1e36ecd.jpg)
 
-
-<img width="830" alt="Screen Shot 2022-04-12 at 11 56 16" src="https://user-images.githubusercontent.com/50269219/162934097-295bc284-48aa-4f13-8063-7fdef5d3f485.png">
 
 
 
